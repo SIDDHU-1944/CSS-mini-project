@@ -44,7 +44,6 @@ h1{
 }
 .sidebar_menu .logo{
     position: absolute;
-    font-size: 20px;
     height: 60px;
     width: 100%;
     line-height: 60px;
@@ -53,6 +52,7 @@ h1{
 .sidebar_menu .logo a{
     position: absolute;
     left: 50px;
+    font-size: 30px;
     color: white;
     text-decoration: none;
 }
